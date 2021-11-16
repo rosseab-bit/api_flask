@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "nombre": "Ricardo",
+            "telefono": "123456789",
+            "correo": "micorreo@correo.com",
+            "empresa": "MiWorkOk",
+            "id": "875f891929c027f992cfd94e0528b548b6dcfb86"
+        },
+        {
+            "nombre": "Nikky",
+            "telefono": "3451234",
+            "correo": "correo@nikky.com",
+            "empresa": "WorkNikkyRicky",
+            "id": "b6d74acacfcca5e6c47e6d1b22f08fa1ea4085d8"
+        }
+    ]
+}
